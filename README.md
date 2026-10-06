@@ -1,2 +1,3 @@
-# quigioco
-Landing published by Deploy Service
+# QuiGioco
+
+Published by Deploy Service.
